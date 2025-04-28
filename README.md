@@ -45,6 +45,6 @@
 <p>If you would like to discuss any opportunities, feel free to reach out!</p>
 
 <p>
-<b>Email:</b> your.email@example.com <br>
+<b>Email:</b> bhanump777@gmail.com <br>
 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bhanuprakash777/" target="_blank">Linkedin</a>
 </p>
