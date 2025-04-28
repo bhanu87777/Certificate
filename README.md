@@ -46,5 +46,5 @@
 
 <p>
 <b>Email:</b> your.email@example.com <br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yourprofile" target="_blank">yourprofile</a>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bhanuprakash777/" target="_blank">yourprofile</a>
 </p>
