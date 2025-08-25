@@ -52,6 +52,4 @@
 <p>If you would like to discuss any opportunities, feel free to reach out!</p>
 
 <p>
-<b>Email:</b> bhanump777@gmail.com <br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bhanuprakash777/" target="_blank">Linkedin</a>
-</p>
+<b>Email:</b> bhanu.cs22@bmsce.ac.in <br>
