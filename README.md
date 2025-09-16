@@ -10,8 +10,6 @@
   <li><b>Full Stack Web Development Bootcamp Certificate</b></li>
   <li><b>Java Certificate</b></li>
   <li><b>JavaScript Certificate</b></li>
-  <li><b>DSA Certificate</b></li>
-  <li><b>Machine Learning Certificate</b></li>
 </ul>
 
 <hr>
@@ -22,8 +20,6 @@
   <li><code>Full-Stack-Web-Development-Bootcamp-Certificate.pdf</code></li>
   <li><code>Java-Certificate.pdf</code></li>
   <li><code>JavaScript-Certificate.pdf</code></li>
-  <li><code>DSA-Certificate.pdf</code></li>
-  <li><code>Machine-Learning-Certificate.pdf</code></li>
 </ul>
 
 <hr>
@@ -34,8 +30,6 @@
   <li><b>Full Stack Web Development Bootcamp:</b> Covered frontend (HTML, CSS, JavaScript) and backend (Node.js, Express, MongoDB) technologies to build complete web applications.</li>
   <li><b>Java Certificate:</b> Focused on core Java concepts like OOP, data structures, algorithms, exception handling, and multi-threading.</li>
   <li><b>JavaScript Certificate:</b> Focused on JavaScript fundamentals, ES6+, asynchronous programming, and building dynamic websites.</li>
-  <li><b>DSA Certificate:</b> Covered core Data Structures and Algorithms concepts, problem-solving techniques, and optimization strategies using JavaScript.</li>
-<li><b>Machine Learning Certificate:</b> Gained knowledge of supervised/unsupervised learning, model evaluation, and practical implementation with Python libraries.</li>
 
 </ul>
 
